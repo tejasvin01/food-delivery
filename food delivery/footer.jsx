@@ -31,14 +31,6 @@ const Footer = () => {
                     <i className="fab fa-whatsapp"></i>
                 </a>
             </div>
-
-            <div className="footer-links">
-                <a href="/about">About Us</a>
-                <a href="/faq">FAQ</a>
-                <a href="/terms">Terms & Conditions</a>
-                <a href="/privacy">Privacy Policy</a>
-            </div>
-
             <div className="footer-info text-center">
                 <p>&copy; {new Date().getFullYear()} Foodie Express. All rights reserved.</p>
                 <a href="mailto:support@foodieexpress.com" className="email-link">support@foodieexpress.com</a>
